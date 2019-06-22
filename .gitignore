@@ -1,4 +1,4 @@
-.iml
+.xml
 .svn
 .idea/
 .vscode
@@ -18,6 +18,5 @@ build/
 xx/
 src_et/
 src_et_64/
-res/
 luaIde
 xx/
